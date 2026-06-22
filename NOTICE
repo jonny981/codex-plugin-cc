@@ -1,0 +1,13 @@
+council
+Copyright 2026 the council contributors
+
+This product includes software whose design and several patterns (slash-command
+review delegation, the adversarial-review prompt structure, the structured review
+output schema, and background job tracking) were inspired by the OpenAI
+codex-plugin-cc project (https://github.com/openai/codex-plugin-cc), which is
+licensed under the Apache License, Version 2.0.
+
+council is an independent reimplementation generalized to be model-agnostic (any
+assistant CLI via configurable adapters) and harness-agnostic (a standalone CLI
+with an optional Claude Code plugin wrapper). It is not affiliated with or
+endorsed by OpenAI.

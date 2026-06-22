@@ -1,0 +1,8 @@
+{
+  "name": "council",
+  "version": "0.1.0",
+  "description": "Convene a council of other AI coding assistants for adversarial review, second opinions, and task delegation.",
+  "author": {
+    "name": "jonny981"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "council",
+  "owner": {
+    "name": "jonny981"
+  },
+  "metadata": {
+    "description": "Convene a council of AI coding assistants from inside your harness for review, second opinions, and delegation.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "council",
+      "description": "Ask other AI coding assistants for an adversarial review, a second opinion, or to take on a task — multiple at once, then synthesized.",
+      "version": "0.1.0",
+      "author": {
+        "name": "jonny981"
+      },
+      "source": "./plugins/council"
+    }
+  ]
+}

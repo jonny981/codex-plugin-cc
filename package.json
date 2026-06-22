@@ -1,0 +1,37 @@
+{
+  "name": "council-cli",
+  "version": "0.1.0",
+  "description": "Convene a council of AI coding assistants for adversarial review, second opinions, and task delegation. Model- and harness-agnostic.",
+  "type": "module",
+  "license": "Apache-2.0",
+  "bin": {
+    "council": "./bin/council.mjs"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "files": [
+    "bin",
+    "src",
+    "prompts",
+    "schemas",
+    "plugins",
+    "README.md",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  },
+  "keywords": [
+    "code-review",
+    "adversarial-review",
+    "ai",
+    "llm",
+    "agents",
+    "claude",
+    "codex",
+    "gemini",
+    "second-opinion"
+  ]
+}
